@@ -97,7 +97,3 @@ npm run build:ios
 # veya
 yarn build:ios
 ```
-
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için LICENSE dosyasına bakın. 
